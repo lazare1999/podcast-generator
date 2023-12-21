@@ -1,4 +1,4 @@
-name: "Podcast Generator"
+name: "Podcast Generator LK"
 author: "Lazare kvirtia"
 description: "Generates a feed for a podcast from YAML file"
 runs:
